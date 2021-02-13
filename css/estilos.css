@@ -4,52 +4,65 @@ margin: 0;
 }
 
 .img {
-    width: 50px;
-    height: 50px;
+    width: 44px;
+    height: 40px;
 }
 
 header{
     width: 100%;
     height: 50px;
     display: flex;
-    background-color: brown;
+    background-color: 41DEE2;
+    font: oblique bold 120% cursive;
+    
 }
 
 header div img {
     height: 30px;
     padding: 10px;
     padding-right: 1px;
-    cursor: pointer;
+    cursor: 41DEE2;
+    font: oblique bold 120% cursive;
 }
 
 header div h3{
     padding: 15px;
     color: white;
     padding-left:2px ;
+    font: oblique bold 120% cursive;
 }
 
 main {
     display: flex;
+    font: oblique bold 120% cursive; 
+    
 }
+
+
+
+
 
 .menu-social{
     width: 100px;
   padding-top: 30px;
   transition: all 0.4s;
+  font: oblique bold 120% cursive;
 }
 
 .menu-social2 {
     margin-left: -90px;
+    font: oblique bold 120% cursive;
 }
 .menu-social li{
     width: 90%;
     padding: 15px;
     padding-left: 0px;
     text-align:center;
-}
+   }
 .menu-social li:hover {
     transform: translateY(10px);
-    background-color: cyan;
+    background-color: 41DEE2;
+   
 }
 .contenido {
     padding: 50px;
@@ -60,16 +73,20 @@ main {
     padding: 15px;
     width: 100%;
 
+
 }
 .menu a {
     padding: 15px;
     font-size: 18px;
    text-decoration: none;
+   font: oblique bold 120% cursive;
 }
 
 
 .menu a:hover{
     transform: translateX(10px);
-    background-color: tomato;
+    background-color: 41DEE2;
    padding: 15px;
+   font: oblique bold 120% cursive;
 }
+

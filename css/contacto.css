@@ -5,6 +5,7 @@
 }
 .mensaje{
     width: 250px;
+    
 
 }
 
@@ -16,4 +17,5 @@
     background: blue;
     cursor:pointer;
     color: white;
+    
 }

@@ -1,3 +1,7 @@
 .main{
     display: flex;
+    font: oblique bold 120% cursive;  
+}
+body h1{
+    font: oblique bold 120% cursive;  
 }

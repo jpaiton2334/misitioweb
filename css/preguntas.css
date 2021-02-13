@@ -1,0 +1,10 @@
+.hola{
+    display: flex;
+    font: oblique bold 120% cursive;  
+    line-height: 20pt; 
+     
+}
+
+.ps h3{
+    font: oblique bold 120% cursive;
+}
